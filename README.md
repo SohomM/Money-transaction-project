@@ -1,19 +1,11 @@
 # Money-Transcation-Security-Blockchain-Project
 Protection and Security of Transaction between friends with help of Blockchain. Project Code, Project PPT, Report and Synopsis for College Project(Final Year Project). 
 
-### PPT: [Link](https://github.com/Vatshayan/Blockchain-Final-Year-Project/blob/main/Blockchain%20Money%20PPT.pdf)
-
 ### Demo:
-
-
 https://user-images.githubusercontent.com/28294942/161795296-c79508aa-3c91-4942-a797-b7b9ab601a03.mov
-
-
 
 ## ABSTRACT:
 Transcation between friends is secured by using blockchain technology. Here we will use see how transcation is secured and protected. Project is in python Programming. 
-
-
 
 Blockchain is a system of recording information in a way that makes it difficult or impossible to change, hack, or cheat the system.
 
@@ -35,31 +27,3 @@ Every node has its own copy of the blockchain and the network must algorithmical
 Combining public information with a system of checks-and-balances helps the blockchain maintain integrity and creates trust among users. Essentially, blockchains can be thought of as the scaleability of trust via technology. 
 
 _________________________________________________________________________________________________________________________________________________
-
-
-Hi there, 
-
-**You Can use this Beautiful Project for your college Project and get good marks too.**
-
-Email me Now **vatshayan007@gmail.com** to get this Full Project Code, PPT, Report, Synopsis, Video Presentation and Research paper of this Project.
-
-💌 Feel free to contact me for any kind of help on any projects.
- 
-### HOW TO RUN THE PROJECT-
-⚡ Email me at **vatshayan007@gmail.com** to get a detailed Guide report with Code to run the project with source Code.
-
-### Need Code, Documents & Explanation video ? 
-
-## How to Reach me :
-
-### Mail : vatshayan007@gmail.com 
-
-### WhatsApp: **+91 9310631437** (Helping 24*7) **[CHAT](https://wa.me/message/CHWN2AHCPMAZK1)** 
-
-### Website : https://www.finalproject.in/
-
-### 1000 Computer Science Projects : https://www.computer-science-project.in/
-
-Mail/Message me for Projects Help 🙏🏻
-
-### Top blockchain projects : https://vatshayan.medium.com/top-3-blockchain-final-year-projects-e910c25403a4
